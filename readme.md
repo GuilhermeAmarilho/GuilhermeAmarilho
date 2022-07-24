@@ -15,11 +15,21 @@
 
 <br>
 
-<!-- <details>	 -->
-
-<summary><a href="#"><img src="img/graphic.png" width="25px"/></a><b> Contribuition Time Series</b></summary>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=guilhermeamarilho&theme=react&bg_color=060630&hide_border=true" width="100%"/>
-
-
+<details>	
+    <summary><a href="#"><img src="img/graphic.png" width="25px"/></a><b> Contribuition Time Series</b></summary>
+    <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeamarilho&theme=react&bg_color=060630&hide_border=true" width="100%"/>
 </details>
+
+<br>
+
+<!-- ### oiaaa -->
+
+<p  align="center">
+	<a href="mailto:guiamarilho1@gmail.com" target="_blank"><img src="img/mail.png"  width="30px">
+	</a>
+	<a href="https://www.linkedin.com/in/amarilho/" target="_blank"><img src="img/linkedin.png" width="30px">
+	</a>
+	<a href="https://github.com/guilhermeamarilho" target="_blank"><img src="img/github.png" width="30px"></a>
+	<a href="https://www.instagram.com/gui_amarilho/" target="_blank"><img src="img/instagram.png" width="30px"></a>
+	<a href="https://guilhermeamarilho.github.io/" target="_blank"><img src="img/site.png" width="30px"></a>
+</p>
