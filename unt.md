@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeAmarilho.visitor-badgee&style=flat-square">
-  
-<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
 
 ## Hey There, I'm Bruno Campos 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
