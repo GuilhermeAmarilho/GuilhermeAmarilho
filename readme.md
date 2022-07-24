@@ -3,4 +3,10 @@
 
 ## Hello Guys, I'm Guilherme Amarilho.
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=guilhermeamarilho&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right">
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=
+        Software+Engineer;
+        8%2B+years+of+coding+experience;
+        Always+learninig+new+things
+    )]"></a>
+</p>
