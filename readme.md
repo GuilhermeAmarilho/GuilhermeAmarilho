@@ -7,7 +7,7 @@
 
 <!-- Apresentation -->
 <p align="center"> 
-    <img src = "https://readme-typing-svg.herokuapp.com?&color=000000&background=FFFFFF00&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
+    <img src = "https://readme-typing-svg.herokuapp.com?&color=000000&background=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
 </p>
 
 <details>	
