@@ -1,17 +1,3 @@
-<style>
-	html{
-		background:  linear-gradient(45deg, rgb(45, 0, 0) 10%, rgb(7, 0, 56) 100%);
-	}
-	*{
-		color: white;
-		font-size: 1.1em;
-	}
-	h1{
-		font-size: 1.4em;
-		font-weight: bold;
-	}
-</style>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeAmarilho.visitor-badgee&style=flat-square">
   
 
@@ -21,7 +7,7 @@
 
 <!-- Apresentation -->
 <p align="center"> 
-    <img src = "https://readme-typing-svg.herokuapp.com?&color=6138F7&background=FFFFFF00&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
+    <img src = "https://readme-typing-svg.herokuapp.com?&color=000000&background=FFFFFF00&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
 </p>
 
 <details>	
