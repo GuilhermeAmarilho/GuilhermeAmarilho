@@ -46,12 +46,12 @@
 		<tbody>
 			<tr>
 				<td align="center">
-					<a href="https://github.com/GuilhermeAmarilho/cadeiras/tree/master/3-semestre/EstruturaDeDados1">
+					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
 					<b>Estrutura de dados</b></a>
 				</td>
 				<td>
-					<a href="https://github.com/GuilhermeAmarilho/cadeiras/tree/master/3-semestre/EstruturaDeDados1">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=EstruturaDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=estruturadedados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 				</td>
 			</tr> 
 		</tbody>
