@@ -7,13 +7,13 @@
 
 <!-- Apresentation -->
 <p align="center"> 
-    <img src = "https://readme-typing-svg.herokuapp.com?&color=000000&background=FFFFFF&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
+    <img src = "https://readme-typing-svg.herokuapp.com?&color=FFFFFF&background=060630&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> 
 </p>
 
 <details>	
     <summary><a href="#"><img src="img/github.png" width="25px" /></a><b> Github Profile Stats</b></summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamarilho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamarilho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamarilho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060630&title_color=79ff97&icon_color=79ff97"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamarilho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=060630&title_color=79ff97&icon_color=79ff97"/>
 </details>
 
 <br>
@@ -25,9 +25,7 @@
 
 <br>
 
-<!-- ### oiaaa -->
-
-<p  align="center">
+<p align="center">
 	<a href="mailto:guiamarilho1@gmail.com"><img src="img/mail.png"  width="30px">
 	</a>
 	<a href="https://www.linkedin.com/in/amarilho/"><img src="img/linkedin.png" width="30px">
