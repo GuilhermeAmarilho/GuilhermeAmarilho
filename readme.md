@@ -25,12 +25,37 @@
 
 <br>
 
-<p align="center">
-	<a href="mailto:guiamarilho1@gmail.com"><img src="img/mail.png"  width="30px">
-	</a>
-	<a href="https://www.linkedin.com/in/amarilho/"><img src="img/linkedin.png" width="30px">
-	</a>
-	<a href="https://github.com/guilhermeamarilho"><img src="img/github.png" width="30px"></a>
-	<a href="https://www.instagram.com/gui_amarilho/"><img src="img/instagram.png" width="30px"></a>
-	<a href="https://guilhermeamarilho.github.io/"><img src="img/site.png" width="30px"></a>
-</p>
+
+<a  details>
+	<summary>
+		<b> 
+			<a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects
+		</b>
+	</summary>
+  	<table>
+		<thead align="center">
+			<tr>
+				<td>
+					<b><a href="#"></a>Projects</b>
+				</td>
+				<td>
+					<b><a href="#"></a>Summary</b>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/cadeiras/tree/master/3-semestre/EstruturaDeDados1">
+					<b>Estrutura de dados</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/cadeiras/tree/master/3-semestre/EstruturaDeDados1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=EstruturaDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+		</tbody>
+  	</table>	
+  	<br>
+</details>
+
