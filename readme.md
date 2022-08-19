@@ -56,11 +56,21 @@
 			<tr>
 				<td align="center">
 					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
-					<b>Estrutura de dados</b></a>
+					<b>Estrutura de dados 1</b></a>
 				</td>
 				<td>
 					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=estruturadedados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=EstruturaDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
+					<b>Banco de dados 2</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=BancoDeDados2&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 				</td>
 			</tr> 
 		</tbody>
