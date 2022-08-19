@@ -25,8 +25,7 @@
 
 <br>
 
-
-<a  details>
+<details>
 	<summary>
 		<b> 
 			<a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects
@@ -59,3 +58,16 @@
   	<br>
 </details>
 
+---
+
+<p  align="center">
+	<a href="mailto:guiamarilho1@gmail.com"><img src="img/mail.png"   width="30px" style="padding:0 1vw">
+	<a href="https://guilhermeamarilho.github.io/" target="_blank"><img src="img/site.png"  width="30px" style="padding:0 1vw">
+	</a>
+	<a href="https://github.com/GuilhermeAmarilho" target="_blank"><img src="img/github.png"  width="30px" style="padding:0 1vw">
+	</a>
+	<a href="https://www.linkedin.com/in/amarilho/" target="_blank"><img src="img/linkedin.png"  width="30px" style="padding:0 1vw">
+	</a>
+	<a href="https://instagram.com/gui_amarilho" target="_blank"><img src="img/instagram.png"  width="30px" style="padding:0 1vw">
+	</a>
+</p>
