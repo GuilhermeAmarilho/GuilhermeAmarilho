@@ -11,7 +11,12 @@
 </p>
 
 <details>	
-    <summary><a href="#"><img src="img/github.png" width="25px" /></a><b> Github Profile Stats</b></summary>
+    <summary>
+		<img src="img/github.png" width="30px" />
+		<b> 
+			Github Profile Stats
+		</b>
+	</summary>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamarilho&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060630&title_color=79ff97&icon_color=79ff97"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamarilho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=060630&title_color=79ff97&icon_color=79ff97"/>
 </details>
@@ -19,26 +24,31 @@
 <br>
 
 <details>	
-    <summary><a href="#"><img src="img/graphic.png" width="25px"/></a><b> Contribuition Time Series</b></summary>
+    <summary>
+		<img src="img/graphic.png" width="30px"/>
+		<b> 
+			Contribuition Time Series
+		</b>
+	</summary>
     <img src="https://activity-graph.herokuapp.com/graph?username=guilhermeamarilho&theme=react&bg_color=060630&hide_border=true" width="100%"/>
 </details>
 
 <br>
 
-<details>
+<adetails>
 	<summary>
 		<b> 
-			<a href="#"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/icon_graduation.png"/></a> Academic Projects
+			<img src="img/academic.png" width="30px"/> Academic Projects
 		</b>
 	</summary>
   	<table>
 		<thead align="center">
 			<tr>
 				<td>
-					<b><a href="#"></a>Projects</b>
+					<b>Projects</b>
 				</td>
 				<td>
-					<b><a href="#"></a>Summary</b>
+					<b>Summary</b>
 				</td>
 			</tr>
 		</thead>
