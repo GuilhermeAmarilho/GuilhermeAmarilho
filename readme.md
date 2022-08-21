@@ -143,6 +143,26 @@
 					<a href="https://github.com/GuilhermeAmarilho/Phonemania">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=Phonemania&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/LifeStyle">
+					<b>LifeStyle</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/LifeStyle">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=LifeStyle&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/creative">
+					<b>Creative</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/creative">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=creative&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
 			</tr> 
 		</tbody>
   	</table>	
