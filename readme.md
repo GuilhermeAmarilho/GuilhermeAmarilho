@@ -230,7 +230,7 @@
 ---
 
 <p  align="center">
-	<a href="mailto:guiamarilho1@gmail.com"><img src="img/mail.png"   width="30px" style="padding:0 1vw">
+	<a href="mailto:guiamarilho1@gmail.com"><img src="img/mail.png"   width="30px" style="padding:0 1vw ">
 	<a href="https://guilhermeamarilho.github.io/" target="_blank"><img src="img/site.png"  width="30px" style="padding:0 1vw">
 	</a>
 	<a href="https://github.com/GuilhermeAmarilho" target="_blank"><img src="img/github.png"  width="30px" style="padding:0 1vw">
