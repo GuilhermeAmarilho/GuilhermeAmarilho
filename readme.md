@@ -48,68 +48,106 @@
 			<img src="img/academic.png" width="30px"/> Academic Projects
 		</b>
 	</summary>
-	<details>
-		<summary>
-			<b> 
-				<img src="img/three.png" width="30px"/> third semester
-			</b>
-		</summary>
-		<table>
-			<thead align="center">
-				<tr>
-					<td>
-						<b>Projects</b>
-					</td>
-					<td>
-						<b>Summary</b>
-					</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td align="center">
-						<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
-						<b>Estrutura de dados 1</b></a>
-					</td>
-					<td>
-						<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
-						<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=EstruturaDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-					</td>
-				</tr> 
-				<tr>
-					<td align="center">
-						<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
-						<b>Banco de dados 2</b></a>
-					</td>
-					<td>
-						<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
-						<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=BancoDeDados2&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-					</td>
-				</tr> 
-				<tr>
-					<td align="center">
-						<a href="https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao">
-						<b>Paradigmas da Computação</b></a>
-					</td>
-					<td>
-						<a href="https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao">
-						<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=ParadigmasDaComputacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-					</td>
-				</tr> 
-				<tr>
-					<td align="center">
-						<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao2">
-						<b>Linguagem de Programação 2</b></a>
-					</td>
-					<td>
-						<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao2">
-						<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=LinguagemDeProgramacao2&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-					</td>
-				</tr> 
-			</tbody>
-		</table>	
-		<br>	
-	</details>
+</details>
+
+<!-- Terceiro Semestre -->
+<details>
+	<summary>
+		<b> 
+			<img src="img/three.png" width="30px"/> third semester
+		</b>
+	</summary>
+	<table>
+		<thead align="center">
+			<tr>
+				<td>
+					<b>Projects</b>
+				</td>
+				<td>
+					<b>Summary</b>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
+					<b>Estrutura de dados 1</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/EstruturaDeDados1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=EstruturaDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
+					<b>Banco de dados 2</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados2">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=BancoDeDados2&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao">
+					<b>Paradigmas da Computação</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/ParadigmasDaComputacao">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=ParadigmasDaComputacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao2">
+					<b>Linguagem de Programação 2</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao2">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=LinguagemDeProgramacao2&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+		</tbody>
+	</table>	
+	<br>	
+</details>
+
+<br>
+
+<!-- Segundo Semestre -->
+<adetails>
+	<summary>
+		<b> 
+			<img src="img/two.png" width="30px"/> second semester
+		</b>
+	</summary>
+	<table>
+		<thead align="center">
+			<tr>
+				<td>
+					<b>Projects</b>
+				</td>
+				<td>
+					<b>Summary</b>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados1">
+					<b>Banco De Dados 1</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=BancoDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+		</tbody>
+	</table>	
+	<br>	
 </details>
 
 <br>
