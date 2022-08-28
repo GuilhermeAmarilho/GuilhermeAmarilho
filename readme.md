@@ -117,10 +117,66 @@
 <br>
 
 <!-- Segundo Semestre -->
-<adetails>
+<details>
 	<summary>
 		<b> 
 			<img src="img/two.png" width="30px"/> second semester
+		</b>
+	</summary>
+	<table>
+		<thead align="center">
+			<tr>
+				<td>
+					<b>Projects</b>
+				</td>
+				<td>
+					<b>Summary</b>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados1">
+					<b>Banco De Dados 1</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/BancoDeDados1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=BancoDeDados1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/WebDesign">
+					<b>Web Design</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/WebDesign">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=WebDesign&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+			<tr>
+				<td align="center">
+					<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao1">
+					<b>Linguagem de Programação 1</b></a>
+				</td>
+				<td>
+					<a href="https://github.com/GuilhermeAmarilho/LinguagemDeProgramacao1">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAmarilho&repo=LinguagemDeProgramacao1&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+				</td>
+			</tr> 
+		</tbody>
+	</table>	
+	<br>	
+</details>
+
+<br>
+
+<!-- Primeiro Semestre -->
+<details>
+	<summary>
+		<b> 
+			<img src="img/one.png" width="30px"/> First semester
 		</b>
 	</summary>
 	<table>
