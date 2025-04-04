@@ -2,11 +2,7 @@
 
 # <p align="center">Guilherme Amarilho.</p>
 
-<br>
-
 <p align="center"> <img src = "https://readme-typing-svg.herokuapp.com?&color=FFFFFF&background=060630&center=true&vCenter=true&width=300&height=30&lines=Full-Stack+Developer;%2B+6+years+learning;Aways+learing+new+thinks"> </p>
-
----
 
 ### 🌐 Meu Portfólio
 
@@ -28,8 +24,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamarilho&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=060630&title_color=79ff97&icon_color=79ff97"/>
 </details>
 
-<br>
-
 <details>
     <summary>
         <img src="img/graphic.png" width="30px"/>
@@ -41,8 +35,6 @@
         <img alt="animação de cobra da grade de contribuição do github" src="https://raw.githubusercontent.com/guilhermeamarilho/guilhermeamarilho/output/github-contribution-grid-snake.svg"> 
     </picture>
 </details>
-
-<br>
 
 <details>
 	<summary>
@@ -135,8 +127,6 @@
 	</summary>
 </details>
 
-<br>
-
 <details>
     <summary>
         <b> 
@@ -188,8 +178,6 @@
     <br>
 
 </details>
-
-<br>
 
 ---
 
