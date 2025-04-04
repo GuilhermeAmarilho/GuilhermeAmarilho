@@ -32,33 +32,89 @@ Contribuition Time Series
 </details>
 <br>
 <!-- Academic projects -->
-<details open>
-<summary>
-<b> 
-<img src="img/projects.png" width="30px"/> Projects
-</b>
-</summary>
-<!-- Terceiro Semestre -->
-<summary>
-<ul style="padding-left: 2em; font-weight:bold;">
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/BoxPlot" target="_blank" style="text-decoration; color: #2c3e50;">Gerador de gráfico de caixas (Js) </a></li>
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/Histograma" target="_blank" style="text-decoration; color: #2c3e50;">Gerador de gráfico de histograma (Js) </a></li>
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/angry_chicken" target="_blank" style="text-decoration; color: #2c3e50;">Angry Chicken (Js)</a></li>
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/Cadastro_Series" target="_blank" style="text-decoration; color: #2c3e50;">Cadastro_Series (Js)</a></li>
-
-
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/Cantina_MarketPlace" target="_blank" style="text-decoration; color: #2c3e50;">Cantina MarketPlace (php)</a></li>
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/Cadastro_De_Arquivos" target="_blank" style="text-decoration; color: #2c3e50;">Cadastro De Arquivos (PHP)</a></li>
-
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/Aproximacao_MonteCarlo" target="_blank" style="text-decoration; color: #2c3e50;">Aproximacao MonteCarlo (C)</a></li>
-
-
-<li style="margin-left: 1em;"><a href="https://guilhermeamarilho.github.io/" target="_blank" style="text-decoration; color: #2c3e50;"></a></li>
-
-
-
-</ul>
-</summary>
+<details>
+	<summary>
+		<b> 
+		<img src="img/projects.png" width="30px"/> Projects
+		</b>
+	</summary>
+	<summary>
+		<ul style="padding-left: 2em; font-weight:bold;">
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/javascript.png" width="30px"/> Javascript
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/BoxPlot" target="_blank" style="text-decoration; color: #2c3e50;">Gerador de gráfico de caixas (Js) </a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Histograma" target="_blank" style="text-decoration; color: #2c3e50;">Gerador de gráfico de histograma (Js) </a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/angry_chicken" target="_blank" style="text-decoration; color: #2c3e50;">Angry Chicken (Js)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Cadastro_Series" target="_blank" style="text-decoration; color: #2c3e50;">Cadastro_Series (Js)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_Fisica" target="_blank" style="text-decoration; color: #2c3e50;">Simulador de física (Js)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/ParaBocha" target="_blank" style="text-decoration; color: #2c3e50;">ParaBocha (Js)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/html.png" width="30px"/> HTML
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_postagens" target="_blank" style="text-decoration; color: #2c3e50;">Projeto Postagens (HTML)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Arkadia" target="_blank" style="text-decoration; color: #2c3e50;">Projeto Arkadia (HTML)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/MatchLocation" target="_blank" style="text-decoration; color: #2c3e50;">Projeto MatchLocation (HTML)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/LifeStyle" target="_blank" style="text-decoration; color: #2c3e50;">LifeStyle (HTML)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Phonemania" target="_blank" style="text-decoration; color: #2c3e50;">Phonemania (HTML)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/php.png" width="30px"/> PHP
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Cantina_MarketPlace" target="_blank" style="text-decoration; color: #2c3e50;">Cantina MarketPlace (php)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Cadastro_De_Arquivos" target="_blank" style="text-decoration; color: #2c3e50;">Cadastro De Arquivos (PHP)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Nottas/readme.md" target="_blank" style="text-decoration; color: #2c3e50;">Nottas - Marketplace (PHP)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/c.png" width="30px"/> C
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Aproximacao_MonteCarlo" target="_blank" style="text-decoration; color: #2c3e50;">Aproximacao MonteCarlo (C)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Arvores_Binarias" target="_blank" style="text-decoration; color: #2c3e50;">Arvores Binárias (C)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_Hashing" target="_blank" style="text-decoration; color: #2c3e50;">Projeto de Hashing (C)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_Trade" target="_blank" style="text-decoration; color: #2c3e50;">Projeto Trade (C)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/python.png" width="30px"/> Python
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_Escola" target="_blank" style="text-decoration; color: #2c3e50;">Projeto Escola (Py)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_Imagens" target="_blank" style="text-decoration; color: #2c3e50;">Projeto Imagens (Py)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Flask_MVC" target="_blank" style="text-decoration; color: #2c3e50;">Flask com MVC (Py)</a></li>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Flask_WTF" target="_blank" style="text-decoration; color: #2c3e50;">Flask com WTF (Py)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/flutter.png" width="30px"/> Flutter
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/FlutterCam" target="_blank" style="text-decoration; color: #2c3e50;">FlutterCam (Dart)</a></li>
+			</details>
+			<details open>
+				<summary>
+					<b> 
+					<img src="img/java.png" width="30px"/> Java
+					</b>
+				</summary>
+				<li style="margin-left: 2em;"><a href="https://guilhermeamarilho.github.io/Projeto_HelpDesk" target="_blank" style="text-decoration; color: #2c3e50;">Projeto HelpDesk (Java)</a></li>
+			</details>
+		</ul>
+	</summary>
 </details>
 
 <br>
